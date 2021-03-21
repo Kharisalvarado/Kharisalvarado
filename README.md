@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kharisalvarado
+- 👀 I’m interested in web and mobile Dev
+- 🌱 I’m currently learning React
+- 📫 How to reach me - www.linkedin.com/in/kharisalvarado
