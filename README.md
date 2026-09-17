@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kharisalvarado
-- 👀 I’m interested in web and mobile Dev
-- 🌱 I’m currently learning React
+- 👀 Senior fullstack dev
 - 📫 How to reach me - www.linkedin.com/in/kharisalvarado
